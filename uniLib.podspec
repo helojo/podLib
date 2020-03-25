@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/admin@helojo.com/uniLib'
+  s.homepage         = 'https://github.com/helojo/podLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'admin@helojo.com' => 'helojo@qq.com' }
-  s.source           = { :git => 'https://github.com/admin@helojo.com/uniLib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/helojo/podLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
