@@ -1,0 +1,22 @@
+{
+  "name": "uniLib",
+  "version": "0.1.0",
+  "summary": "A short description of uniLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/admin@helojo.com/uniLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "admin@helojo.com": "helojo@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/admin@helojo.com/uniLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "uniLib/Classes/**/*"
+}
