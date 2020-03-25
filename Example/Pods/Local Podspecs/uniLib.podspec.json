@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "一个非常强大的库.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/admin@helojo.com/uniLib",
+  "homepage": "https://github.com/helojo/podLib",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,13 @@
     "admin@helojo.com": "helojo@qq.com"
   },
   "source": {
-    "git": "https://github.com/admin@helojo.com/uniLib.git",
+    "git": "https://github.com/helojo/podLib.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "uniLib/Classes/**/*"
+  "source_files": "uniLib/Classes/**/*",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
 }
